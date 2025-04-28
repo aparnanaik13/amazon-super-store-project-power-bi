@@ -22,8 +22,7 @@ This Power BI dashboard visualizes Amazon's global sales data between 2012 and 2
 
 ---
 
-## 📷 Dashboard Screenshot
-### Dashboard View:
+### 📷 Dashboard View:
 ![Amazon Dashboard](https://github.com/aparnanaik13/amazon-super-store-project-power-bi/blob/main/Amazon%20dashboard%20screenshot.png?raw=true)
 
 ---
